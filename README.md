@@ -1,4 +1,3 @@
-````markdown
 # Chronoflow ⏱️
 
 A minimalist, distraction-free focus timer engineered for reliability, precision, and mobile-first usability.
@@ -288,12 +287,7 @@ python -m http.server 8000
 
 ### Contributing
 
-Contributions are welcome! Please:
-1. Test thoroughly on mobile devices
-2. Ensure keyboard accessibility
-3. Maintain the single-file structure
-4. Follow the existing code style
-5. Add JSDoc comments for new functions
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
@@ -398,4 +392,3 @@ Independent project focused on creating fast, reliable, privacy-friendly product
 Built with ❤️ for focused work and deep productivity.
 
 Inspired by the Pomodoro Technique by Francesco Cirillo.
-````
